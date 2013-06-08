@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.date = %q{2013-06-08}
   s.description = %q{Base behavior for a stock management system}
   s.email = %q{emilio.murta@msitbrasil.com}
-  s.extra_rdoc_files = [%q{README.md}, %q{README.rdoc}, %q{lib/Item.rb}]
-  s.files = [%q{README.md}, %q{README.rdoc}, %q{Rakefile}, %q{lib/Item.rb}, %q{Manifest}, %q{msit-stock.gemspec}]
+  s.extra_rdoc_files = [%q{CHANGELOG}, %q{README.md}, %q{README.rdoc}, %q{lib/Item.rb}]
+  s.files = [%q{CHANGELOG}, %q{README.md}, %q{README.rdoc}, %q{Rakefile}, %q{lib/Item.rb}, %q{msit-stock.gemspec}, %q{Manifest}]
   s.homepage = %q{http://github.com/emiliowl/msit-stock}
   s.rdoc_options = [%q{--line-numbers}, %q{--inline-source}, %q{--title}, %q{Msit-stock}, %q{--main}, %q{README.md}]
   s.require_paths = [%q{lib}]
